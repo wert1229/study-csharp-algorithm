@@ -5,3 +5,10 @@ D:\dev\unity\csharp-algorithm\Algorithm\obj\Debug\Algorithm.csproj.AssemblyRefer
 D:\dev\unity\csharp-algorithm\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
 D:\dev\unity\csharp-algorithm\Algorithm\obj\Debug\Algorithm.exe
 D:\dev\unity\csharp-algorithm\Algorithm\obj\Debug\Algorithm.pdb
+D:\dev\unity\study-csharp-algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+D:\dev\unity\study-csharp-algorithm\Algorithm\bin\Debug\Algorithm.exe
+D:\dev\unity\study-csharp-algorithm\Algorithm\bin\Debug\Algorithm.pdb
+D:\dev\unity\study-csharp-algorithm\Algorithm\obj\Debug\Algorithm.csproj.AssemblyReference.cache
+D:\dev\unity\study-csharp-algorithm\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+D:\dev\unity\study-csharp-algorithm\Algorithm\obj\Debug\Algorithm.exe
+D:\dev\unity\study-csharp-algorithm\Algorithm\obj\Debug\Algorithm.pdb

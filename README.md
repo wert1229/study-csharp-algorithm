@@ -4,3 +4,5 @@
 * 미로만들기 BinaryTree, SideWinder
 * 길찾기 우수법
 * 그래프(DFS, BFS), 다익스트라
+* Heap, PriorityQueue
+* A*
